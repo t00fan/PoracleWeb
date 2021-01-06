@@ -44,7 +44,7 @@ $mapURL="https://tileserver.okhuny.com/multistaticmap/pokesat?id=150&form=0&evol
 
 // Other Configuration Items
 
-$max_pokemon="721";
+$max_pokemon="720";
 $raid_bosses="6,68,94,105,297,303,306,460,530,532,599,646,661,667,677"; 
 
 ?>
